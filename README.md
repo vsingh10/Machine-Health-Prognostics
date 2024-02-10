@@ -10,3 +10,5 @@ In our approach, we used an ensemble model using the NASA Bearing Dataset. Also,
    ![Result Obtained by Ensemble Method](https://github.com/vsingh10/Machine-Health-Prognostics/blob/main/Result_Ensemble_Model.png)
 
 2. Gaussian Process Regression
+
+      ![Result Obtained by GPR](https://github.com/vsingh10/Machine-Health-Prognostics/blob/main/Result_GPR.jpeg)
