@@ -4,5 +4,5 @@ The problem addressed by predictive health monitoring and machine prognosis is t
 Predictive health monitoring and machine prognosis aim to shift towards a proactive approach by leveraging data analytics and machine learning to anticipate potential problems, enabling early intervention, preventive measures, and optimized resource allocation. This proactive strategy helps mitigate risks, reduce costs, improve efficiency, and improve health outcomes or machine performance.
 In our approach, we used an ensemble model using the NASA Bearing Dataset. Also, we used a Gaussian Process regression on the same dataset from which we got the following results.
 
-1.Ensemble Model
-2.Gaussian Process Regression
+1. Ensemble Model
+2. Gaussian Process Regression
