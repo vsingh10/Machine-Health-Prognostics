@@ -5,6 +5,8 @@ Predictive health monitoring and machine prognosis aim to shift towards a proact
 In our approach, we used an ensemble model using the NASA Bearing Dataset. Also, we used a Gaussian Process regression on the same dataset from which we got the following results.
 
 1. Ensemble Model
+
+   
    ![Result Obtained by Ensemble Method](https://github.com/vsingh10/Machine-Health-Prognostics/blob/main/Result_Ensemble_Model.png)
 
 2. Gaussian Process Regression
